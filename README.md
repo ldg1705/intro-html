@@ -1,14 +1,33 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+<body>
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+<div class="custom-padding">
+  <nav>
+    <div class="logo">Luca Del Grosso</div>
+      <ul class="menu-area">
+      <li><a href="#Home">Home</a></li>
+      <li><a href="Portfolio.html">Portfolio</a></li>
+      <li><a href="files/CV.pdf">Curriculum Vitae</a></li>
+      <li><a href="#Services">Services</a></li>
+      <li><a href="#About">About</a></li>
 
-Oh! I haven't introduced myself...
+<li><a class="aMio" title="Versione italiana" >
+<img src="files/italianflag.png" alt="Versione italiana" style="margin-right:-20px;" border="1">
+</a></li>
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+<li><a class="Mio" title="English version" >
+<img src="files/ukflag.jpg" alt="English version" style="margin-right:-15px;" border="0">
+</a></li>
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+       </ul>
+  </nav>
 
-I'll meet you over there, can't wait to get started!
+</div>
+</div>
 
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
-Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+<h1 align="center"; style="background-color:rgba(252, 251, 247 , 0.8)";>Welcome to my website!</h1>
+
+
+</body>
+
+</html>
+
